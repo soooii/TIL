@@ -82,7 +82,7 @@ class MyThread extends Thread {
 5. **`main()`, `run()`은 서로 다른 호출 스택을 갖게 된다.**
     - **서로 독립적인 작업을 수행할 수 있다.**
 
-
+![image](https://github.com/user-attachments/assets/e72425ee-c2fe-4a05-80f9-813e4e70f00c)
 ---
 
 ### main 쓰레드
